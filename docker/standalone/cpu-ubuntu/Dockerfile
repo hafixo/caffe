@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER caffe-maint@googlegroups.com
 
 #ENV http_proxy proxy:port
